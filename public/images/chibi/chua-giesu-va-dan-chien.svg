@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <defs>
+    <linearGradient id="bgShepherd" x1="0" y1="0" x2="600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E0EFFA"/>
+      <stop offset="60%" stop-color="#FDFBF7"/>
+      <stop offset="100%" stop-color="#C5E0CF"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="420" rx="32" fill="url(#bgShepherd)"/>
+  <!-- Sun & hills -->
+  <circle cx="480" cy="95" r="45" fill="#FDE68A" opacity="0.85"/>
+  <ellipse cx="180" cy="360" rx="260" ry="90" fill="#9BC7AD" opacity="0.55"/>
+  <ellipse cx="440" cy="365" rx="240" ry="85" fill="#4F8A6B" opacity="0.35"/>
+  <!-- Shepherd's Staff -->
+  <path d="M210 355 V155 C210 125 245 125 245 150 C245 165 228 170 225 160" stroke="#8C5830" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <!-- Halo -->
+  <circle cx="300" cy="155" r="64" stroke="#FBBF24" stroke-width="3.5" fill="#FFFBEB" fill-opacity="0.6"/>
+  <!-- Hair back -->
+  <path d="M245 150 C238 188 242 222 256 232 L344 232 C358 222 362 188 355 150 Z" fill="#6B4423"/>
+  <!-- Tunic & Green/Earth Shepherd Mantle -->
+  <path d="M238 355 L260 228 H340 L362 355 Z" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2.5"/>
+  <path d="M250 230 C235 265 230 315 234 355 H275 L292 242 Z" fill="#4F8A6B"/>
+  <path d="M350 230 C365 265 370 315 366 355 H325 L308 242 Z" fill="#3D6F55"/>
+  <!-- Head -->
+  <circle cx="300" cy="160" r="48" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M250 150 C252 115 282 104 300 110 C318 104 348 115 350 150 C340 132 320 125 300 132 C280 125 260 132 250 150 Z" fill="#6B4423"/>
+  <!-- Warm smiling eyes -->
+  <circle cx="280" cy="160" r="5" fill="#4A2E16"/>
+  <circle cx="320" cy="160" r="5" fill="#4A2E16"/>
+  <circle cx="278" cy="158" r="1.8" fill="#FFFFFF"/>
+  <circle cx="318" cy="158" r="1.8" fill="#FFFFFF"/>
+  <ellipse cx="268" cy="172" rx="7" ry="4.5" fill="#F4A298" opacity="0.55"/>
+  <ellipse cx="332" cy="172" rx="7" ry="4.5" fill="#F4A298" opacity="0.55"/>
+  <path d="M290 180 Q300 189 310 180" stroke="#5A381E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Cute White Lamb 1 (Left) -->
+  <g transform="translate(120, 275)">
+    <circle cx="35" cy="35" r="24" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+    <circle cx="55" cy="32" r="20" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+    <circle cx="20" cy="38" r="18" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+    <circle cx="62" cy="24" r="14" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="1.8"/>
+    <circle cx="66" cy="22" r="2.5" fill="#4A2E16"/>
+    <ellipse cx="52" cy="14" rx="7" ry="4" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="1.5"/>
+  </g>
+  <!-- Cute White Lamb 2 (Right) -->
+  <g transform="translate(395, 280)">
+    <circle cx="45" cy="35" r="24" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+    <circle cx="25" cy="32" r="20" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+    <circle cx="60" cy="38" r="18" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+    <circle cx="18" cy="24" r="14" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="1.8"/>
+    <circle cx="14" cy="22" r="2.5" fill="#4A2E16"/>
+    <ellipse cx="28" cy="14" rx="7" ry="4" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="1.5"/>
+  </g>
+</svg>
+

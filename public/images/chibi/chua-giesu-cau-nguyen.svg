@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <defs>
+    <linearGradient id="bgPray" x1="0" y1="0" x2="600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDFBF7"/>
+      <stop offset="50%" stop-color="#E0EFFA"/>
+      <stop offset="100%" stop-color="#E1EFE6"/>
+    </linearGradient>
+    <radialGradient id="haloPray" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FDE68A" stop-opacity="0.95"/>
+      <stop offset="70%" stop-color="#FCD34D" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FEF3C7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="420" rx="32" fill="url(#bgPray)"/>
+  <!-- Soft clouds & sunbeams -->
+  <circle cx="300" cy="175" r="125" fill="url(#haloPray)"/>
+  <ellipse cx="140" cy="340" rx="180" ry="60" fill="#C5E0CF" opacity="0.6"/>
+  <ellipse cx="460" cy="350" rx="190" ry="65" fill="#9BC7AD" opacity="0.5"/>
+  <!-- Stars / sparkles of grace -->
+  <path d="M150 95 L154 107 L166 111 L154 115 L150 127 L146 115 L134 111 L146 107 Z" fill="#FBBF24" opacity="0.8"/>
+  <path d="M455 85 L458 94 L467 97 L458 100 L455 109 L452 100 L443 97 L452 94 Z" fill="#FBBF24" opacity="0.8"/>
+  <!-- Halo ring -->
+  <circle cx="300" cy="160" r="68" stroke="#FBBF24" stroke-width="4" fill="#FFFBEB" fill-opacity="0.5"/>
+  <!-- Cross behind halo -->
+  <path d="M300 96 V224 M236 160 H364" stroke="#FCD34D" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <!-- Hair back -->
+  <path d="M242 155 C235 190 240 225 255 235 L345 235 C360 225 365 190 358 155 Z" fill="#6B4423"/>
+  <!-- White Tunic & Red/Burgundy Mantle -->
+  <path d="M235 355 L258 232 H342 L365 355 Z" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2.5"/>
+  <path d="M248 235 C232 265 225 315 230 355 H268 L285 245 Z" fill="#C85A53"/>
+  <path d="M352 235 C368 265 375 315 370 355 H332 L315 245 Z" fill="#B54842"/>
+  <!-- Golden Sash -->
+  <path d="M262 292 Q300 302 338 292" stroke="#FBBF24" stroke-width="6" stroke-linecap="round"/>
+  <!-- Head (Chibi gentle proportion) -->
+  <circle cx="300" cy="164" r="50" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <!-- Hair front -->
+  <path d="M248 155 C250 118 282 106 300 112 C318 106 350 118 352 155 C342 135 320 128 300 135 C280 128 258 135 248 155 Z" fill="#6B4423"/>
+  <!-- Peaceful closed eyes in prayer -->
+  <path d="M274 164 Q282 171 290 164" stroke="#5A381E" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M310 164 Q318 171 326 164" stroke="#5A381E" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Soft rosy cheeks -->
+  <ellipse cx="268" cy="175" rx="8" ry="5" fill="#F4A298" opacity="0.55"/>
+  <ellipse cx="332" cy="175" rx="8" ry="5" fill="#F4A298" opacity="0.55"/>
+  <!-- Gentle beard & warm smile -->
+  <path d="M254 176 Q300 222 346 176 Q338 205 300 212 Q262 205 254 176 Z" fill="#7D522D" opacity="0.85"/>
+  <path d="M291 186 Q300 193 309 186" stroke="#5A381E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Folded praying hands -->
+  <path d="M286 268 C286 248 296 240 300 238 C304 240 314 248 314 268 Z" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <!-- White sleeves around hands -->
+  <ellipse cx="282" cy="276" rx="18" ry="12" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+  <ellipse cx="318" cy="276" rx="18" ry="12" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+  <!-- Olive branches -->
+  <path d="M180 340 Q210 310 240 330" stroke="#4F8A6B" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <ellipse cx="195" cy="322" rx="9" ry="5" transform="rotate(-25 195 322)" fill="#4F8A6B"/>
+  <ellipse cx="215" cy="318" rx="9" ry="5" transform="rotate(15 215 318)" fill="#4F8A6B"/>
+</svg>
+

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <rect width="600" height="420" rx="32" fill="#E0EFFA"/>
+  <!-- Sun rising over Galilee lake -->
+  <circle cx="460" cy="110" r="52" fill="#FDE68A" opacity="0.9"/>
+  <!-- Calm Sea of Galilee waves -->
+  <path d="M0 290 Q150 275 300 290 T600 290 V420 H0 Z" fill="#89C7EC" opacity="0.6"/>
+  <path d="M0 330 Q150 345 300 330 T600 330 V420 H0 Z" fill="#3B8AC4" opacity="0.45"/>
+  <!-- Sandy shore -->
+  <ellipse cx="260" cy="375" rx="260" ry="65" fill="#F3E9D2"/>
+  <!-- Halo & Jesus by the shore -->
+  <circle cx="260" cy="155" r="64" stroke="#FBBF24" stroke-width="3.5" fill="#FFFBEB" fill-opacity="0.7"/>
+  <path d="M202 355 L222 228 H298 L318 355 Z" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2.5"/>
+  <path d="M215 230 L198 355 H235 L250 242 Z" fill="#3B8AC4"/>
+  <circle cx="260" cy="160" r="48" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M210 150 C212 115 242 104 260 110 C278 104 308 115 310 150 C300 132 280 125 260 132 C240 125 220 132 210 150 Z" fill="#6B4423"/>
+  <circle cx="242" cy="160" r="4.8" fill="#4A2E16"/>
+  <circle cx="278" cy="160" r="4.8" fill="#4A2E16"/>
+  <path d="M250 180 Q260 188 270 180" stroke="#5A381E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Little wooden fishing boat in background -->
+  <path d="M415 282 L430 308 H510 L525 282 Z" fill="#8C5830"/>
+  <path d="M470 282 V215 L515 268 H470 Z" fill="#FDFBF7" stroke="#E8D7B4" stroke-width="1.5"/>
+</svg>
+

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <rect width="600" height="420" rx="32" fill="#FAF5EB"/>
+  <ellipse cx="300" cy="365" rx="280" ry="75" fill="#E8D7B4" opacity="0.5"/>
+  <circle cx="300" cy="155" r="64" stroke="#FBBF24" stroke-width="3.5" fill="#FFFBEB"/>
+  <!-- St. Joseph's White Lily Staff -->
+  <path d="M385 355 V145" stroke="#4F8A6B" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="385" cy="135" r="14" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+  <circle cx="372" cy="148" r="11" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+  <circle cx="398" cy="148" r="11" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2"/>
+  <circle cx="385" cy="138" r="4" fill="#FBBF24"/>
+  <!-- St. Joseph Tunic & Earthy Cloak -->
+  <path d="M240 355 L260 228 H340 L360 355 Z" fill="#F3E9D2" stroke="#D6C29F" stroke-width="2.5"/>
+  <path d="M250 230 L232 355 H275 L292 242 Z" fill="#8C5830"/>
+  <path d="M350 230 L368 355 H325 L308 242 Z" fill="#734623"/>
+  <circle cx="300" cy="160" r="48" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M250 150 C252 115 282 104 300 110 C318 104 348 115 350 150 Z" fill="#5A381E"/>
+  <circle cx="282" cy="160" r="4.8" fill="#4A2E16"/>
+  <circle cx="318" cy="160" r="4.8" fill="#4A2E16"/>
+  <path d="M256 175 Q300 220 344 175 Q335 205 300 210 Q265 205 256 175 Z" fill="#5A381E" opacity="0.85"/>
+  <path d="M290 184 Q300 191 310 184" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>
+

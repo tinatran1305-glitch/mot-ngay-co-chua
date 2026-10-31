@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <rect width="600" height="420" rx="32" fill="#F0F7FC"/>
+  <ellipse cx="300" cy="365" rx="280" ry="75" fill="#E0EFFA"/>
+  <!-- 12 stars halo of Our Lady -->
+  <circle cx="300" cy="155" r="70" stroke="#FBBF24" stroke-width="3" stroke-dasharray="6 12" fill="#FFFBEB" fill-opacity="0.7"/>
+  <!-- Marian Blue Veil -->
+  <path d="M235 155 C235 100 365 100 365 155 L380 355 H220 Z" fill="#3B8AC4"/>
+  <!-- White Gown -->
+  <path d="M248 355 L265 225 H335 L352 355 Z" fill="#FFFFFF" stroke="#BAE0F5" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="300" cy="162" r="45" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M254 152 C262 120 338 120 346 152 C330 135 270 135 254 152 Z" fill="#4A2E16"/>
+  <!-- Gentle praying eyes -->
+  <path d="M276 162 Q283 168 290 162" stroke="#4A2E16" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M310 162 Q317 168 324 162" stroke="#4A2E16" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M292 180 Q300 186 308 180" stroke="#5A381E" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <!-- Praying hands with Rosary -->
+  <path d="M288 265 C288 248 296 240 300 238 C304 240 312 248 312 265 Z" fill="#FFE6D0"/>
+  <path d="M300 265 V305" stroke="#D99B16" stroke-width="2.5" stroke-dasharray="3 3"/>
+  <path d="M300 305 V322 M293 312 H307" stroke="#D99B16" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
+

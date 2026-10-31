@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <rect width="600" height="420" rx="32" fill="#FFFBEB"/>
+  <ellipse cx="300" cy="360" rx="260" ry="70" fill="#E0EFFA" opacity="0.7"/>
+  <!-- Angel Wings -->
+  <path d="M245 235 C175 190 155 255 215 285 C185 295 205 320 250 300 Z" fill="#FFFFFF" stroke="#BAE0F5" stroke-width="2.5"/>
+  <path d="M355 235 C425 190 445 255 385 285 C415 295 395 320 350 300 Z" fill="#FFFFFF" stroke="#BAE0F5" stroke-width="2.5"/>
+  <!-- Golden Halo Ring -->
+  <ellipse cx="300" cy="102" rx="36" ry="10" stroke="#FBBF24" stroke-width="4" fill="none"/>
+  <!-- Angel Gown -->
+  <path d="M245 350 L265 225 H335 L355 350 Z" fill="#FFFFFF" stroke="#FDE68A" stroke-width="2.5"/>
+  <path d="M265 280 Q300 292 335 280" stroke="#FBBF24" stroke-width="5" stroke-linecap="round"/>
+  <!-- Angel Head -->
+  <circle cx="300" cy="162" r="46" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M254 152 C258 118 282 108 300 112 C318 108 342 118 346 152 C332 135 268 135 254 152 Z" fill="#D99B16"/>
+  <circle cx="282" cy="162" r="4.5" fill="#4A2E16"/>
+  <circle cx="318" cy="162" r="4.5" fill="#4A2E16"/>
+  <path d="M291 180 Q300 187 309 180" stroke="#5A381E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>
+

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <rect width="600" height="420" rx="32" fill="#FFFBEB"/>
+  <!-- Glorious Easter Dawn Rays -->
+  <circle cx="300" cy="180" r="165" fill="#FDE68A" opacity="0.45"/>
+  <circle cx="300" cy="180" r="115" fill="#FCD34D" opacity="0.45"/>
+  <ellipse cx="300" cy="365" rx="285" ry="75" fill="#C5E0CF"/>
+  <!-- Risen Jesus in radiant white and gold -->
+  <circle cx="300" cy="150" r="68" stroke="#FBBF24" stroke-width="4" fill="#FFFFFF"/>
+  <path d="M235 355 L258 225 H342 L365 355 Z" fill="#FFFFFF" stroke="#FBBF24" stroke-width="2.5"/>
+  <path d="M250 228 L228 355 H268 L288 240 Z" fill="#FEF3C7"/>
+  <path d="M350 228 L372 355 H332 L312 240 Z" fill="#FDE68A"/>
+  <circle cx="300" cy="155" r="48" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M250 146 C252 110 282 100 300 106 C318 100 348 110 350 146 C340 128 320 120 300 128 C280 120 260 128 250 146 Z" fill="#6B4423"/>
+  <circle cx="282" cy="155" r="4.8" fill="#4A2E16"/>
+  <circle cx="318" cy="155" r="4.8" fill="#4A2E16"/>
+  <path d="M290 176 Q300 185 310 176" stroke="#5A381E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>
+

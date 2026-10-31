@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" fill="none">
+  <rect width="600" height="420" rx="32" fill="#F2F7F4"/>
+  <ellipse cx="300" cy="360" rx="290" ry="80" fill="#C5E0CF"/>
+  <!-- Blooming garden flowers -->
+  <circle cx="120" cy="320" r="14" fill="#F4A298"/>
+  <circle cx="120" cy="320" r="6" fill="#FDE68A"/>
+  <circle cx="165" cy="340" r="12" fill="#FCD34D"/>
+  <circle cx="450" cy="325" r="15" fill="#F4A298"/>
+  <circle cx="450" cy="325" r="6" fill="#FFFBEB"/>
+  <circle cx="490" cy="345" r="12" fill="#89C7EC"/>
+  <!-- Halo & Jesus in the garden -->
+  <circle cx="300" cy="155" r="65" stroke="#FBBF24" stroke-width="3.5" fill="#FFFBEB"/>
+  <path d="M240 355 L260 228 H340 L360 355 Z" fill="#FFFFFF" stroke="#E8D7B4" stroke-width="2.5"/>
+  <path d="M252 230 L234 355 H272 L288 242 Z" fill="#4F8A6B"/>
+  <circle cx="300" cy="160" r="48" fill="#FFE6D0" stroke="#E6C2A3" stroke-width="2"/>
+  <path d="M250 150 C252 115 282 104 300 110 C318 104 348 115 350 150 C340 132 320 125 300 132 C280 125 260 132 250 150 Z" fill="#6B4423"/>
+  <circle cx="282" cy="160" r="4.8" fill="#4A2E16"/>
+  <circle cx="318" cy="160" r="4.8" fill="#4A2E16"/>
+  <path d="M290 180 Q300 188 310 180" stroke="#5A381E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>
+
